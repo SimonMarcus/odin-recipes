@@ -6,4 +6,11 @@ h1 {color:green; font-size: 80px;font-style: oblique;font-stretch: expanded;}
 
 h2 {flood-color: blue;color: chartreuse;}
 
+.picture {
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+  }
 
+  .picture-float-in {}
